@@ -1,2 +1,2 @@
 # Maya_stuff
-project information
+project information about the Maya
